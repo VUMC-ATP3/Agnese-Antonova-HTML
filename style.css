@@ -1,0 +1,30 @@
+/* Pēc klases */
+.note {
+    color:blueviolet;
+}
+/* pēc elementa nosaukuma */
+h3,p {
+    color:brown;
+    background-color:black;
+}
+/* pēc paragraf */
+p {
+    border-style: dotted;
+}
+/* Pēc klases div */
+.full {
+    border: 3px solid #fff;
+    //display: grid;
+
+}
+.left {
+    background-color: rgb(215, 223, 223);
+    width: 50%;
+    float: left;
+}
+.right {
+background-color: bisque;
+width: 50%;
+    float: right;
+
+}
