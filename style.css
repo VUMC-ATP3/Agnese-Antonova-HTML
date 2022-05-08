@@ -32,7 +32,6 @@ p {
     padding: 75px 10px 25px 40px;
     color: #fff;
     float: left;
-    height: wh;
 }
 
 .left-block a {
@@ -55,8 +54,6 @@ p {
     height:220px;
     background: url('img/IMG.jpg') top center;
     background-size: cover;
-    -webkit-border-radius: 220px;
-    -moz-border-radius: 220px;
     border-radius: 220px;
     
 }
