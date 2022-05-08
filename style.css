@@ -52,7 +52,7 @@ p {
 .left-block .profile-image {
     width: 220px;
     height:220px;
-    background: top center url('img/IMG.jpg');
+    background: top center url("img/IMG.jpg");
     background-size: cover;
     border-radius: 220px;
     
