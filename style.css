@@ -49,7 +49,7 @@ p {
     margin: 0;
 }
 
-.profile-image {
+.left-block .profile-image {
     width: 220px;
     height:220px;
     background: top center url("img/IMG.jpg");
